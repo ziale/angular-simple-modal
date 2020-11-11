@@ -1,3 +1,17 @@
 p {
   font-family: Lato;
 }
+
+.dialog {
+  padding: 2rem;
+  width: 40rem;
+}
+
+.dialog-actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.secondary-btn {
+  margin-right: 8px;
+}
